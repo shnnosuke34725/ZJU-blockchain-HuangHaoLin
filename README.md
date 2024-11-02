@@ -67,3 +67,7 @@ buyHouse 函数实现购买上架的房屋。如果买家钱包内的钱大于�
 - 快速实现 ERC721 和 ERC20：[模版](https://wizard.openzeppelin.com/#erc20)。记得安装相关依赖 ``"@openzeppelin/contracts": "^5.0.0"``。
 
 - 如何实现ETH和ERC20的兑换？ [参考讲解](https://www.wtf.academy/en/docs/solidity-103/DEX/)
+
+- ERC721的参考文档：https://ethereum.org/zh/developers/docs/standards/tokens/erc-721/
+
+- 一些 CSDN 、知乎等网站上的回答 
